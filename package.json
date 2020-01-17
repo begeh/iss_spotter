@@ -19,6 +19,7 @@
   "homepage": "https://github.com/begeh/iss_spotter#readme",
   "dependencies": {
     "request": "^2.88.0",
-    "request-promise": "^4.2.5"
+    "request-promise": "^4.2.5",
+    "request-promise-native": "^1.0.8"
   }
 }
